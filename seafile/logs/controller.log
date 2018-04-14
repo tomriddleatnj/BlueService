@@ -1,0 +1,8 @@
+[04/14/18 22:57:00] seafile-controller.c(154): starting ccnet-server ...
+[04/14/18 22:57:00] seafile-controller.c(73): spawn_process: ccnet-server -F /media/USB_HDD_200G/seafile/conf -c /media/USB_HDD_200G/seafile/ccnet -f /media/USB_HDD_200G/seafile/logs/ccnet.log -d -P /media/USB_HDD_200G/seafile/pids/ccnet.pid
+[04/14/18 22:57:00] seafile-controller.c(88): spawned ccnet-server, pid 18810
+[04/14/18 22:57:01] seafile-controller.c(555): ccnet daemon connected.
+[04/14/18 22:57:01] seafile-controller.c(186): starting seaf-server ...
+[04/14/18 22:57:01] seafile-controller.c(73): spawn_process: seaf-server -F /media/USB_HDD_200G/seafile/conf -c /media/USB_HDD_200G/seafile/ccnet -d /media/USB_HDD_200G/seafile/seafile-data -l /media/USB_HDD_200G/seafile/logs/seafile.log -P /media/USB_HDD_200G/seafile/pids/seaf-server.pid
+[04/14/18 22:57:01] seafile-controller.c(88): spawned seaf-server, pid 18814
+[04/14/18 22:57:01] seafile-controller.c(528): seafdav not enabled.

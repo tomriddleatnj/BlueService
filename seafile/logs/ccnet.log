@@ -1,0 +1,9 @@
+[04/14/18 22:57:00] ../common/session.c(132): using config file /media/USB_HDD_200G/seafile/conf/ccnet.conf
+[04/14/18 22:57:00] ../common/session.c(484): Listen on /media/USB_HDD_200G/seafile/ccnet/ccnet.sock for local clients
+[04/14/18 22:57:00] ../common/session.c(290): Update pubinfo file
+[04/14/18 22:57:01] ../common/session.c(398): Accepted a local client
+[04/14/18 22:57:01] ../common/session.c(398): Accepted a local client
+[04/14/18 22:57:01] ../common/session.c(398): Accepted a local client
+[04/14/18 22:57:01] ../common/session.c(398): Accepted a local client
+[04/14/18 22:57:11] ../common/session.c(398): Accepted a local client
+[04/14/18 22:57:28] ../common/peer.c(943): Local peer down
