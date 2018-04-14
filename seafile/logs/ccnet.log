@@ -7,3 +7,9 @@
 [04/14/18 22:57:01] ../common/session.c(398): Accepted a local client
 [04/14/18 22:57:11] ../common/session.c(398): Accepted a local client
 [04/14/18 22:57:28] ../common/peer.c(943): Local peer down
+[04/14/18 23:03:15] ../common/session.c(398): Accepted a local client
+[04/14/18 23:03:17] ../common/session.c(398): Accepted a local client
+[04/14/18 23:03:18] ../common/session.c(398): Accepted a local client
+[04/14/18 23:03:20] ../common/session.c(398): Accepted a local client
+[04/14/18 23:03:20] ../common/session.c(398): Accepted a local client
+[04/14/18 23:03:21] ../common/session.c(398): Accepted a local client

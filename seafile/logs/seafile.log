@@ -4,3 +4,5 @@
 [04/14/18 22:57:01] http-server.c(206): fileserver: max_indexing_threads = 1
 [04/14/2018 10:57:01 PM] ../common/mq-mgr.c(54): [mq client] mq cilent is started
 [04/14/2018 10:57:03 PM] size-sched.c(96): Repo size compute queue size is 0
+[04/14/2018 11:02:03 PM] size-sched.c(96): Repo size compute queue size is 0
+[04/14/2018 11:07:03 PM] size-sched.c(96): Repo size compute queue size is 0
