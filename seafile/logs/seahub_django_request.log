@@ -2,3 +2,8 @@
 2018-04-14 15:03:28,602 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
 2018-04-14 15:06:00,312 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
 2018-04-14 15:06:03,704 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
+2018-04-15 03:04:22,109 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
+2018-04-15 03:04:24,245 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
+2018-04-15 03:04:55,402 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
+2018-04-15 03:05:40,097 [WARNING] django.request:170 get_response Not Found: /media/CACHE/css/33c8ade35ad7.css
+2018-04-15 03:13:50,476 [WARNING] django.request:170 get_response Not Found: /seafhttp/protocol-version
